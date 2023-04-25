@@ -8,3 +8,15 @@ Mordaax/Mordaax is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mordaax&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)
 --->
+
+<h1 align="center">Hi 👋, I'm Cyrus</h1>
+<h3 align="center">Aspiring Security Developer</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<!---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mordaax&show_icons=true&locale=en&layout=compact" alt="mordaax" /></p>
+--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mordaax&show_icons=true&locale=en" alt="mordaax" /></p>
+
