@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mordaax&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)
 --->
 
-<h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">Aspiring Security Developer</h3>
 <!---
 <h3 align="left">Connect with me:</h3>
