@@ -17,13 +17,13 @@ Currently studying Computer Science at Singapore Management University (SMU).
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Stats
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mordaax&theme=gruvbox)
-![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mordaax&theme=gruvbox)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Mordaax&theme=dark&hide_border=false)<br/>
-
 ## Certifications
 ![OSCP](https://img.shields.io/badge/OSCP-111827?style=for-the-badge)
 ![OSWE](https://img.shields.io/badge/OSWE-111827?style=for-the-badge)
 ![OSWP](https://img.shields.io/badge/OSWP-111827?style=for-the-badge)
 ![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+## GitHub
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mordaax&theme=gruvbox)
+![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mordaax&theme=gruvbox)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Mordaax&theme=dark&hide_border=false)<br/>
